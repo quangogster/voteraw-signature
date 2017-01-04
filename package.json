@@ -1,0 +1,23 @@
+{
+  "name": "voteraw-signature",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snogcel/voteraw-signature.git"
+  },
+  "author": "Jon Kindel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snogcel/voteraw-signature/issues"
+  },
+  "homepage": "https://github.com/snogcel/voteraw-signature#readme",
+  "dependencies": {
+    "bitcore-lib-dash": "^0.13.19",
+    "bitcore-message-dash": "^1.0.5"
+  }
+}

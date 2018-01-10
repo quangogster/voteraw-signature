@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/snogcel/voteraw-signature#readme",
   "dependencies": {
-    "bitcore-lib-dash": "^0.13.19",
+    "bitcore-lib-dash": "^0.15.2",
     "bitcore-message-dash": "^1.0.5"
   }
 }
